@@ -1,2 +1,3 @@
 # AI_study
-# 中国
+I know how to use it
+thanks
